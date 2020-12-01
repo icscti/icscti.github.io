@@ -4,15 +4,13 @@ disqus:
   disqus_shortname: 'apham'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-91332049-1'
+google-ID: ''
 
 menu: 
   - name: Featured Projects
     submenu:
-      - name: MicroBam
-        link: /projects/microbam
-      - name: OurLegacy
-        link: /projects/ourlegacy
+      - name: ICS APT and Malware Families List
+        link: /projects/aptmalwarelist
   - name: Posts
     link: /
   - name: Tags
@@ -23,11 +21,11 @@ menu:
     submenu:
       - name: GitHub
         icon: github
-        link: http://github.com/alainpham
+        link: http://github.com/icscti
       - name: LinkedIn
         icon: linkedin-square
-        link: http://www.linkedin.com/in/alainpham
+        link: http://www.linkedin.com/in/
       - name: Twitter
         icon: twitter
-        link: https://twitter.com/koint
+        link: https://twitter.com/icscti
     

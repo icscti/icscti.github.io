@@ -7,13 +7,10 @@ disqus:
 google-ID: ''
 
 menu: 
-  - name: Projects
-    link: /projects
-      sub:
-      - name: ICS APT and Malware Families
-        link: /projects/icsaptlist
   - name: About
     link: /about
+  - name: Projects
+    link: /projects
   - name: Tags
     link: /tags
 

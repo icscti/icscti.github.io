@@ -8,12 +8,8 @@ google-ID: ''
 
 menu: 
   - name: Projects
-    submenu:
-      - name: ICS APT and Malware Families List
-        link: /projects/aptmalwarelist
-      - name: Other Projects
-        link: /projects
-    - name: About
+    link: /projects
+  - name: About
     link: /about
   - name: Tags
     link: /tags
